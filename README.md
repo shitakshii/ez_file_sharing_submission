@@ -30,5 +30,33 @@ This project is a **secure file-sharing backend system** built as part of the EZ
 
 ---
 
-## 📂 Project Structure
+
+---
+
+## 🧪 API Collection
+
+A complete **Postman Collection** is included with:
+- Client Signup
+- Email Verification
+- Login (Client & Ops)
+- File Upload (Ops)
+- File List & Download (Client)
+
+---
+
+## 🧑‍💻 Getting Started
+
+### 1. Clone the repository
+```bash
+git clone https://github.com/your-username/secure-file-sharing.git
+cd secure-file-sharing
+ Create a virtual environment and install dependencies
+bash
+Copy
+Edit
+python -m venv venv
+source venv/bin/activate  # or venv\Scripts\activate on Windows
+pip install -r requirements.txt
+
+
 
