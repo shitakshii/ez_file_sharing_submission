@@ -49,14 +49,29 @@ A complete **Postman Collection** is included with:
 ### 1. Clone the repository
 
 git clone https://github.com/shitakshii/ez_file_sharing_submission
-cd secure-file-sharing
 
+cd ez_file_sharing_submission
 
 ### 2.  Create a virtual environment and install dependencies
 
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
+
+---
+
+## Deploy  (Render / Railway)
+Platforms like Render.com, Railway.app, or Fly.io support direct Docker deployment:
+
+### 1. Push your code to GitHub
+
+### 2. Connect the repo in the PaaS dashboard
+
+### 3. Set environment variables from .env
+
+### 4. Select Docker as the deploy method
+
+### 5. Click Deploy
 
 
 
