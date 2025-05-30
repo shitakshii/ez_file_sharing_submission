@@ -47,16 +47,17 @@ A complete **Postman Collection** is included with:
 ## 🧑‍💻 Getting Started
 
 ### 1. Clone the repository
-```bash
-git clone https://github.com/your-username/secure-file-sharing.git
+
+git clone https://github.com/shitakshii/ez_file_sharing_submission
 cd secure-file-sharing
- Create a virtual environment and install dependencies
-bash
-Copy
-Edit
+
+
+### 2.  Create a virtual environment and install dependencies
+
 python -m venv venv
 source venv/bin/activate  # or venv\Scripts\activate on Windows
 pip install -r requirements.txt
+
 
 
 
